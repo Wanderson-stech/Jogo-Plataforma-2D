@@ -8,7 +8,7 @@ Este projeto consiste em um jogo de plataforma 2D onde o jogador deve atravessar
 
 O desenvolvimento foi realizado utilizando a engine Unity e a linguagem C#, aplicando conceitos de programação orientada a objetos, gerenciamento de cenas, colisões e física 2D.
 
-## Funcionalidades
+## Funcionalidades/teclas
 
 - Movimentação horizontal do personagem
 - Sistema de pulo
@@ -19,6 +19,16 @@ O desenvolvimento foi realizado utilizando a engine Unity e a linguagem C#, apli
 - Controle de câmera
 - Interface de usuário básica
 - Sistema de vitória e derrota
+
+A, D - mover
+
+Ctrl + sprint
+
+Shift - furtividade
+
+Espaço - pular
+
+Q, E - atirar
 
 ## Tecnologias Utilizadas
 
